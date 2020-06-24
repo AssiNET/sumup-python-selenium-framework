@@ -1,0 +1,8 @@
+Prerequisites:
+- Make sure to run on Windows
+- Make sure Python 2.7+ is installed and in Path
+- Make sure WebDriver has been installed and added into Path
+- To avoid paths issues copy the framework at root level such as C:\
+
+To run the framework and Tests execute:
+python runner.py --set smoke_tests
